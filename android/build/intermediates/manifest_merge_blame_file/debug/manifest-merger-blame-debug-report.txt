@@ -1,0 +1,25 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="nl.nextup.ZebraScanner" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->/Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="31" />
+7-->/Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml
+8
+9    <uses-permission android:name="com.symbol.emdk.permission.EMDK" />
+9-->/Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:2:5-70
+9-->/Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:2:22-68
+10
+11    <application>
+11-->/Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:4:5-6:19
+12        <uses-library
+12-->/Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:5:9-80
+13            android:name="com.symbol.emdk"
+13-->/Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:5:23-53
+14            android:required="false" />
+14-->/Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:5:54-78
+15    </application>
+16
+17</manifest>
