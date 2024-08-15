@@ -170,9 +170,9 @@ public class ZebraScannerModule extends ReactContextBaseJavaModule implements EM
     public void onBarcodeEvent(String barcode, String type) {
         updateStatus("Barcode scan read: " + barcode);
         WritableMap params = Arguments.createMap();
-        params.putString("data", barcode); 
- params.putString("type", type);  
- params.putString("type", type); 
+        params.putString("data", barcode);
+        params.putString("type", type);  
+
         sendEvent(BARCODE_READ_SUCCESS, params);
     }
 
