@@ -1,37 +1,29 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:1:1-7:12
-INJECTED from /Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:1:1-7:12
-INJECTED from /Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:1:1-7:12
+ADDED from /Users/rsanabria/foodlogiq/src/github.com/FoodLogiQ/mobile/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/rsanabria/foodlogiq/src/github.com/FoodLogiQ/mobile/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:1:1-7:12
 	package
-		ADDED from /Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:1:70-102
-		INJECTED from /Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml
-		INJECTED from /Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml
+		ADDED from /Users/rsanabria/foodlogiq/src/github.com/FoodLogiQ/mobile/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:1:70-102
+		INJECTED from /Users/rsanabria/foodlogiq/src/github.com/FoodLogiQ/mobile/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/rsanabria/foodlogiq/src/github.com/FoodLogiQ/mobile/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:1:11-69
 uses-permission#com.symbol.emdk.permission.EMDK
-ADDED from /Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:2:5-70
+ADDED from /Users/rsanabria/foodlogiq/src/github.com/FoodLogiQ/mobile/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:2:5-70
 	android:name
-		ADDED from /Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:2:22-68
+		ADDED from /Users/rsanabria/foodlogiq/src/github.com/FoodLogiQ/mobile/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:2:22-68
 application
-ADDED from /Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:4:5-6:19
+ADDED from /Users/rsanabria/foodlogiq/src/github.com/FoodLogiQ/mobile/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:4:5-6:19
 uses-library#com.symbol.emdk
-ADDED from /Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:5:9-80
+ADDED from /Users/rsanabria/foodlogiq/src/github.com/FoodLogiQ/mobile/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:5:9-80
 	android:required
-		ADDED from /Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:5:54-78
+		ADDED from /Users/rsanabria/foodlogiq/src/github.com/FoodLogiQ/mobile/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:5:54-78
 	android:name
-		ADDED from /Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:5:23-53
+		ADDED from /Users/rsanabria/foodlogiq/src/github.com/FoodLogiQ/mobile/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml:5:23-53
 uses-sdk
-INJECTED from /Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml
-INJECTED from /Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml
-INJECTED from /Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml
-INJECTED from /Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml
+INJECTED from /Users/rsanabria/foodlogiq/src/github.com/FoodLogiQ/mobile/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rsanabria/foodlogiq/src/github.com/FoodLogiQ/mobile/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml
+INJECTED from /Users/rsanabria/foodlogiq/src/github.com/FoodLogiQ/mobile/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml
-		ADDED from /Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml
-		INJECTED from /Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/rsanabria/foodlogiq/src/github.com/FoodLogiQ/mobile/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml
-		ADDED from /Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml
-		INJECTED from /Users/renesanabria/Code/MobileDev/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/rsanabria/foodlogiq/src/github.com/FoodLogiQ/mobile/node_modules/@nextup/react-native-zebra-scanner/android/src/main/AndroidManifest.xml
